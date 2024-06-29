@@ -1,7 +1,4 @@
-
-![LOGO](https://github.com/Sharif-University-ESRLab/spring2024-uefi-calculator/assets/79264802/88ffe13b-b0a1-4777-909d-6388c96c0ecc)
-
-
+## This project is a answer to 7th question of DSD midterm(spring1403)
 
 # Calculator
 
